@@ -225,6 +225,21 @@ main {
     margin-top: 0;
 }
 
+.details {
+    display: flex;
+    height: auto;
+    justify-self: right;
+    background-color: rgba(250, 161, 161, 0.712);
+    width: 25%;
+    margin-right: 30px;
+    margin-top: 40px;
+    padding: 5px;
+}
+
+.details p {
+    color: black
+}
+
 section {
     display: flex;
     background-color: rgba(19, 19, 19, 0.637);
