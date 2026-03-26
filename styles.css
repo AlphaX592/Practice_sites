@@ -198,7 +198,7 @@ main {
 }
 
 #axolotls {
-    background-image: url(/images/axolotls.jpg);
+    background-image: url(./images/axolotls.jpg);
     height:100vh;
     background-size: cover;
     background-position: center;
@@ -206,7 +206,7 @@ main {
 }
 
 #africanSpinyMouse {
-    background-image: url(/images/afrspinyrodent.jpg);
+    background-image: url(./images/afrspinyrodent.jpg);
     height:100vh;
     background-size: cover;
     background-position: center;
@@ -214,7 +214,7 @@ main {
 }
 
 #starfish {
-    background-image: url(/images/starfish.jpg);
+    background-image: url(./images/starfish.jpg);
     height:100vh;
     background-size: cover;
     background-position: center;
@@ -222,7 +222,7 @@ main {
 }
 
 #octopus {
-    background-image: url(/images/octopus2.jpeg);
+    background-image: url(./images/octopus2.jpeg);
     height:100vh;
     background-size: cover;
     background-position: center;
